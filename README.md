@@ -1,6 +1,12 @@
 # Android Invaders
 Charla sobre seguridad en dispositivos Android.
 
+**Fecha**: 9 de Marzo de 2016
+
+**Lugar**: ETSIIT - Universidad de Granada
+
+Charla realizada para [#MiercolesGeek](https://github.com/iblancasa/miercolesgeek).
+
 **En construcción...**
 
 ## Autores

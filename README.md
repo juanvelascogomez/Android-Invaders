@@ -1,11 +1,9 @@
 # Android Invaders
-Charla sobre seguridad en dispositivos Android.
+Charla sobre seguridad en dispositivos Android. Realizada para [#MiercolesGeek](https://github.com/iblancasa/miercolesgeek) gracias a la Oficina de Software Libre.
 
 **Fecha**: 9 de Marzo de 2016
 
 **Lugar**: ETSIIT - Universidad de Granada
-
-Charla realizada para [#MiercolesGeek](https://github.com/iblancasa/miercolesgeek).
 
 **En construcción...**
 

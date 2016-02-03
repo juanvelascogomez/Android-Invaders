@@ -1,4 +1,8 @@
 \documentclass{beamer}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{float}
+\usepackage{wrapfig}
 
 %\usetheme{Goettingen}
 %\usetheme{Berkeley}
@@ -10,38 +14,68 @@
 
 %en corchetes ponemos nombres más cortos, para mejor visualización de las cabeceras del documento
 \title[Charla Android]{Android Invaders}
-\author[LPB]{$@asolisi, @juanvelascogomez y @$neon$_$520}
+\author[LPB]{$@asolisi, @juanvelascogomez y @neon520$}
 \institute[UGR]{Universidad de Granada}
 
 \begin{document}
 
 \maketitle
 
-
 %los comandos con asterisco evitan la numeración
 \section*{Introducción}
 
-\begin{frame}
+\begin{figure}[h]
+\includegraphics[width=11cm, height=8cm]{androidInvaders.png}
+\end{figure}
+
+%Primer grupo: Introduccion al problema
+\begin{frame}{¿Dónde está el problema?}
 \begin{itemize}[<+-|alert@+>]
-\item Este taller está pensado como pequeña introducción al \LaTeX 
+	
+\item Los dispositivos y entornos móviles son un objetivo y están constantemente amenazados por:
+\item Comportamientos del usuario arriesgados (y habituales)
+\item Vulnerabilidades de seguridad
+\item Dar a las actualizaciones la importancia que se merecen
 
-\item Intentaremos dar algunas pequeñas pinceladas sobe su uso 
-
-\item Para m\'as detalles véase la documentación de beamer.
 \end{itemize}
 \end{frame}
 
-\begin{frame}
-\begin{itemize}
-\item<1-> Primero
-\item<2-> Segundo
-\item<3,4>Tercero
-\item<2> Otro
-\item<5-> Final
+%Segundo grupo: Actualizaciones del sistema
+\begin{frame}{Actualizaciones del sistema}
+	Algunas preguntas a resolver...
+	
+\begin{itemize}[<+-|alert@+>]
+	
+	\item ¿Disponéis de la última versión del sistema operativo para vuestro móvil?
+	\item ¿Está disponible esa nueva versión para nuestro dispositivo?
+	\item ¿Resuelve esto todas las vulnerabilidades conocidas?
+	\item ¿Y las que no son públicas?
+	
 \end{itemize}
 \end{frame}
 
-\section{Otra sección}
+%Tercer grupo: Vulnerabilidades Android
+\begin{frame}{Versiones y vulnerabilidades en Android}
+	
+	\begin{itemize}[<+-|alert@+>]
+		
+		\item Android: 8 años
+			\begin{itemize}
+				\subitem 2008: 1.0 \newline
+				\subitem 2009: 1.1, 1.5, 1.6, 2.0 \newline
+				\subitem 2010: 2.1, 2.2, 2.3.x \newline
+				\subitem 2011: 2.4.x, 3.x,4.0 \newline
+				\subitem 2012: 4.1, 4.2 \newline
+				\subitem 2013: 4.3, 4.4 \newline
+				\subitem 2014: 5.0 \newline
+				\subitem 2015: 5.1, 6.0 \newline
+			\end{itemize}
+
+	\end{itemize}
+	
+\end{frame}
+
+\section{Camuflar un APK}
 
 \begin{frame}{Otra cosa mariposa}
 \begin{block}{Bloques}
@@ -61,7 +95,7 @@ Y en estos los ejemplos, por ejemplo.
 
 \end{frame}
 
-\section{Pausas}
+\section{Prueba de concepto real}
 
 \begin{frame}
 
@@ -87,7 +121,7 @@ Y en estos los ejemplos, por ejemplo.
 
 \end{frame}
 
-\section{Sobre}
+\section{¿Y si salimos afuera?}
 
 \subsection{Impresiones}
 
@@ -114,7 +148,6 @@ O cualquier otra cosa.
 \end{exampleblock}
 
 \end{frame}
-
 
 %el número 10 no es significativo, realmente dice que el número de citas es un número de a lo sumo dos dígitos
 \begin{thebibliography}{10}

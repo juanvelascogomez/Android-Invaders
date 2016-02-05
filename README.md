@@ -1,7 +1,7 @@
 # Android Invaders
 
 <p align="center">
-<img src="Logo/androidInvaders.png"/>
+<img src="Logo/androidInvaders_nobackground_black.png"/>
 </p>
 
 Charla sobre seguridad en dispositivos Android. Realizada para [#MiercolesGeek](https://github.com/iblancasa/miercolesgeek) gracias a la Oficina de Software Libre.

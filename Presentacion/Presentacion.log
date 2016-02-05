@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.16)  4 FEB 2016 00:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.12.16)  5 FEB 2016 11:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1216,110 +1216,10 @@ Overfull \vbox (0.81248pt too high) has occurred while \output is active []
 
 ] [11
 
+] [12
+
 ]
-! Undefined control sequence.
-<recently read> \subitem 
-                         
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...008: 1.0 \newline \subitem 
-                                                  2009: 1.1, 1.5, 1.6, 2.0 \...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...1.6, 2.0 \newline \subitem 
-                                                  2010: 2.1, 2.2, 2.3.x \new...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...2, 2.3.x \newline \subitem 
-                                                  2011: 2.4.x, 3.x,4.0 \newl...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ... 3.x,4.0 \newline \subitem 
-                                                  2012: 4.1, 4.2 \newline \s...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...4.1, 4.2 \newline \subitem 
-                                                  2013: 4.3, 4.4 \newline \s...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...4.3, 4.4 \newline \subitem 
-                                                  2014: 5.0 \newline \subite...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-\beamer@doifinframe ...014: 5.0 \newline \subitem 
-                                                  2015: 5.1, 6.0 \newline \e...
-l.78 \end{frame}
-                
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.78 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12
-
-] [13
+[13
 
 ] [14
 
@@ -1337,6 +1237,29 @@ If that doesn't work, type  X <return>  to quit.
 
 ] [21
 
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+] [26
+
+] [27
+
+]
+[28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
  </usr/share/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>]
 \tf@nav=\write6
 \openout6 = `Presentacion.nav'.
@@ -1347,14 +1270,14 @@ If that doesn't work, type  X <return>  to quit.
 \tf@snm=\write8
 \openout8 = `Presentacion.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 159.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 159.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 208.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 208.
  (./Presentacion.aux
 LaTeX Info: Redefining \. on input line 25.
 LaTeX Info: Redefining \% on input line 25.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 159.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 159.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 208.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 208.
 
 
 Package rerunfilecheck Warning: File `Presentacion.out' has changed.
@@ -1362,43 +1285,34 @@ Package rerunfilecheck Warning: File `Presentacion.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Presentacion.out':
-(rerunfilecheck)             Before: 679D845625E56496B154F1F12542DDAA;228
-(rerunfilecheck)             After:  BD499EDCD3DF7F436DAFD78F26A11301;228.
+(rerunfilecheck)             Before: 8C681EEF373202797A272BDEBE9920B2;228
+(rerunfilecheck)             After:  C30B56AEEC53374D1F10E6D520F77386;228.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 159.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 208.
  ) 
 Here is how much of TeX's memory you used:
- 18001 strings out of 493054
- 337994 string characters out of 6140585
- 426862 words of memory out of 5000000
- 21036 multiletter control sequences out of 15000+600000
- 10695 words of font info for 39 fonts, out of 8000000 for 9000
+ 18015 strings out of 493054
+ 337841 string characters out of 6140585
+ 426864 words of memory out of 5000000
+ 21030 multiletter control sequences out of 15000+600000
+ 10684 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 56i,20n,65p,413b,642s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{Navigation23} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation22} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Navigation24} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{Outline0.4.1.21} has been referenced but does not e
-xist, replaced by a fixed one
+ 56i,20n,65p,413b,811s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Outline0.4.1.28} has been referenced but does not
+ exist, replaced by a fixed one
 
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmss8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-si10.pfb>
-Output written on Presentacion.pdf (21 pages, 113704 bytes).
+sbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
+Output written on Presentacion.pdf (32 pages, 154910 bytes).
 PDF statistics:
- 752 PDF objects out of 1000 (max. 8388607)
- 691 compressed objects within 7 object streams
- 53 named destinations out of 1000 (max. 500000)
- 140 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1094 PDF objects out of 1200 (max. 8388607)
+ 1016 compressed objects within 11 object streams
+ 72 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

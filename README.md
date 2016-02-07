@@ -4,6 +4,8 @@
 <img src="Logo/androidInvaders_nobackground_black.png"/>
 </p>
 
+## Información general
+
 Charla sobre seguridad en dispositivos Android. Realizada para [#MiercolesGeek](https://github.com/iblancasa/miercolesgeek) gracias a la Oficina de Software Libre.
 
 **Fecha**: 9 de Marzo de 2016

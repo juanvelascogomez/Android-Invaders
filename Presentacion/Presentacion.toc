@@ -1,6 +1,0 @@
-\beamer@endinputifotherversion {3.36pt}
-\select@language {spanish}
-\beamer@sectionintoc {2}{Camuflar un APK}{23}{0}{1}
-\beamer@sectionintoc {3}{Prueba de concepto. Intrusi\IeC {\'o}n en dispositivo}{24}{0}{2}
-\beamer@sectionintoc {4}{\IeC {\textquestiondown }Y si salimos afuera?}{25}{0}{3}
-\beamer@subsectionintoc {4}{1}{Impresiones}{25}{0}{3}

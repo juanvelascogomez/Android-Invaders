@@ -12,7 +12,7 @@ Charla sobre seguridad en dispositivos Android. Realizada para [#MiercolesGeek](
 
 **Lugar**: ETSIIT - Universidad de Granada
 
-**En construcción...**
+Enlace a las [diapositivas](AndroidInvaders.html)
 
 ## Autores
 

@@ -7,13 +7,13 @@ Los pasos a seguir serían:
 2. Descomprimir los APK, cada una en su carpeta:
 	- Entramos en buena y ejecutamos:
 
-		apktool d Good_app.apk  (siendo Good_app.apk nuestro apk buena)
+			apktool d Good_app.apk  (siendo Good_app.apk nuestro apk buena)
 
 	esto nos creará una carpeta al lado con el nombre de la app, en nuestro caso Good_app
 
 	- Entramos en mala y ejecutamos:
 
-		apktool d Bad_app.apk  (siendo Bad_app.apk nuestro apk buena)
+			apktool d Bad_app.apk  (siendo Bad_app.apk nuestro apk buena)
 
 	esto nos creará una carpeta al lado con el nombre de la app, en nuestro caso Bad_app
 
@@ -39,10 +39,10 @@ Los pasos a seguir serían:
 
 10. Generamos la firma para nuestra app con:
 
-  	keytool -genkey -v -keystore keys/Good_app.keystore -alias Good_app -keyalg RSA -keysize 2048 -validity 10000
+  		keytool -genkey -v -keystore keys/Good_app.keystore -alias Good_app -keyalg RSA -keysize 2048 -validity 10000
 
 	Rellenamos los parametros como queramos, incluso podemos copiar los de la app original.
 
 11. Firmamos la app con:
 
-  	jarsigner -verbose -keystore keys/Good_app.keystore Good_app.apk Good_app
+  		jarsigner -verbose -keystore keys/Good_app.keystore Good_app.apk Good_app

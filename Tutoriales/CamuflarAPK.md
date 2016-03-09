@@ -2,7 +2,7 @@
 
 Los pasos a seguir serían:
 
-1. Creamos 3 carpetas para tenerlo todo organizado, estas serán: buena (aquí metemos el apk dentor de la cual queremos camuflar nuestra apk maliciosa), mala (aquí metemos el apk maliciosa que queremos camuflar) y combinda (aquí sera donde crearemos la nueva apk)
+1. Creamos 3 carpetas para tenerlo todo organizado, estas serán: buena (aquí metemos el apk dentor de la cual queremos camuflar nuestra apk maliciosa), mala (aquí metemos el apk maliciosa que queremos camuflar) y combinada (aquí sera donde crearemos la nueva apk)
 
 2. Descomprimir los APK, cada una en su carpeta:
 	- Entramos en buena y ejecutamos:

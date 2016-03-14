@@ -21,7 +21,7 @@ Los pasos a seguir serían:
 
 4. Meter la carpeta mala/Bad_app/smali/com/metasploit dentro de combinada/Good_app/smali/com
 
-5. Accedemos a el archivo /com/metasploit/stage/MainActivity.smali y copiamos la línea en la que hay un "->start" que sería la que lanza nuestro proceso malicioso.
+5. Accedemos al archivo /com/metasploit/stage/MainActivity.smali y copiamos la línea en la que hay un "->start" que sería la que lanza nuestro proceso malicioso.
 
 6. En nuestra Good_app buscamos el archivo que se lanza al inicar la app y dentro de él, el metodo OnCreate y dentro de el pegamos la linea que hemos copiado en 5. Esto hará que nuestra app maliciosa se lance al lanzarse la aplicación buena.
 
